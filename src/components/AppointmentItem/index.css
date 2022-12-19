@@ -1,0 +1,31 @@
+.card-container {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  border: 2px solid #b5b7c4;
+  min-width: 200px;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.appointment-title {
+  color: #171f46;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.date {
+  color: #b5b7c4;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.button-star {
+  background-color: transparent;
+  border: none;
+  margin-left: 30px;
+}
